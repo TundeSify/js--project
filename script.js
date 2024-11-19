@@ -39,7 +39,7 @@ function Brown(theme) {
     if (currentTheme === "brown") {
         resetTheme();
     } else {
-        document.body.style.backgroundColor = "brown";
+        document.body.style.backgroundColor = "#a98467";
         document.body.style.color = "white";
         document.body.style.fontFamily = "'Times New Roman', Times, serif";
         updateImage("img/elder.png");
